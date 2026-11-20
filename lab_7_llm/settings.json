@@ -4,5 +4,5 @@
     "dataset": "https://huggingface.co/datasets/tatsu-lab/alpaca",
     "metrics": []
   },
-  "target_score": 6
+  "target_score": 8
 }
