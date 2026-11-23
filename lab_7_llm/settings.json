@@ -1,7 +1,7 @@
 {
   "parameters": {
-    "model": "https://huggingface.co/JackFram/llama-68m",
-    "dataset": "https://huggingface.co/datasets/tatsu-lab/alpaca",
+    "model": "llama-68m",
+    "dataset": "alpaca",
     "metrics": []
   },
   "target_score": 8
